@@ -9,3 +9,6 @@ print(f" a nota final é: ", (media))
 
 if media > 7 :
     print("aprovado!")
+
+else:
+    print("reprovado!")
